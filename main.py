@@ -4,7 +4,7 @@ from telegram.ext import Application, ContextTypes, CommandHandler, MessageHandl
 
 from texttospeech import Text2speech as t2s
 
-TOKEN: Final = '6330573804:AAFcIw4mvMsBD0ZaQFFN9QP3KySkq5aQqfY'
+TOKEN: Final = '<>'
 BOT_USERNAME: Final = '@TSC_0_BOT'
 
 
